@@ -1,0 +1,35 @@
+.form-box {
+    background-color: wheat
+}
+
+h3 {
+    color: brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2 {
+    color: brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.form-group {
+    color: rgb(218, 71, 71);
+
+}
+
+table{
+    background-color: rgb(241, 207, 207);
+}
+
+thead {
+    background-color: rgb(218, 71, 71);
+}
+
+th {
+    color: whitesmoke;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+td {
+    font-family: 'Times New Roman', Times, serif;
+}

@@ -1,0 +1,15 @@
+body {
+    background-color: wheat;
+}
+
+h2 {
+    color: purple;
+}
+
+table{
+    background-color: brown;
+}
+
+th,td {
+    color: aliceblue;
+}

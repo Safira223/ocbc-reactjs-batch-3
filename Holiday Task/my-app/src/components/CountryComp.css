@@ -1,0 +1,32 @@
+.country-wrapper {
+    display: inline-block;
+    width: 250px;
+    background-color: rgb(92, 12, 42);
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
+
+
+.card-body {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 25px;
+}
+
+h4 {
+    text-align: center;
+}
+
+.card-title {
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    color: white;
+}
+  
+  .card-text {
+    margin-top: 20px;
+    color: white;
+  }
